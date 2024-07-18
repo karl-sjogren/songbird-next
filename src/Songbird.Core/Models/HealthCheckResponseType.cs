@@ -1,4 +1,4 @@
-namespace Songbird.Core.Configuration;
+namespace Songbird.Core.Models;
 
 public enum HealthCheckResponseType {
     Json,
